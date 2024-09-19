@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/Saravanakumar2607/leetcode/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/Saravanakumar2607/leetcode/tree/master/2383-add-two-integers) |
+| [2507-number-of-common-factors](https://github.com/Saravanakumar2607/leetcode/tree/master/2507-number-of-common-factors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Saravanakumar2607/leetcode/tree/master/1013-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Saravanakumar2607/leetcode/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Saravanakumar2607/leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
