@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saravanakumar2607/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2634-minimum-common-value](https://github.com/Saravanakumar2607/leetcode/tree/master/2634-minimum-common-value) |
 ## Binary Search
 |  |
@@ -54,9 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saravanakumar2607/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Saravanakumar2607/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Counting
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Saravanakumar2607/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saravanakumar2607/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
