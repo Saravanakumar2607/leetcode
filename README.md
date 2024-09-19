@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Saravanakumar2607/leetcode/tree/master/0035-search-insert-position) |
 | [2634-minimum-common-value](https://github.com/Saravanakumar2607/leetcode/tree/master/2634-minimum-common-value) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Saravanakumar2607/leetcode/tree/master/0035-search-insert-position) |
 | [2634-minimum-common-value](https://github.com/Saravanakumar2607/leetcode/tree/master/2634-minimum-common-value) |
 ## Linked List
 |  |
