@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Saravanakumar2607/leetcode/tree/master/0066-plus-one) |
 | [1013-fibonacci-number](https://github.com/Saravanakumar2607/leetcode/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/Saravanakumar2607/leetcode/tree/master/2383-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/Saravanakumar2607/leetcode/tree/master/2507-number-of-common-factors) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Saravanakumar2607/leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Saravanakumar2607/leetcode/tree/master/0066-plus-one) |
 | [2634-minimum-common-value](https://github.com/Saravanakumar2607/leetcode/tree/master/2634-minimum-common-value) |
 ## Hash Table
 |  |
