@@ -27,4 +27,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Saravanakumar2607/leetcode/tree/master/2507-number-of-common-factors) |
+## Array
+|  |
+| ------- |
+| [2634-minimum-common-value](https://github.com/Saravanakumar2607/leetcode/tree/master/2634-minimum-common-value) |
+## Hash Table
+|  |
+| ------- |
+| [2634-minimum-common-value](https://github.com/Saravanakumar2607/leetcode/tree/master/2634-minimum-common-value) |
+## Two Pointers
+|  |
+| ------- |
+| [2634-minimum-common-value](https://github.com/Saravanakumar2607/leetcode/tree/master/2634-minimum-common-value) |
+## Binary Search
+|  |
+| ------- |
+| [2634-minimum-common-value](https://github.com/Saravanakumar2607/leetcode/tree/master/2634-minimum-common-value) |
 <!---LeetCode Topics End-->
