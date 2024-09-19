@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Saravanakumar2607/leetcode/tree/master/0067-add-binary) |
+| [0476-number-complement](https://github.com/Saravanakumar2607/leetcode/tree/master/0476-number-complement) |
 ## Simulation
 |  |
 | ------- |
