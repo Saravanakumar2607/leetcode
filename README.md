@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Saravanakumar2607/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [1013-fibonacci-number](https://github.com/Saravanakumar2607/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2634-minimum-common-value](https://github.com/Saravanakumar2607/leetcode/tree/master/2634-minimum-common-value) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Saravanakumar2607/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
